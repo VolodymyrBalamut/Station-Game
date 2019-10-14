@@ -17,11 +17,7 @@ pygame.display.set_caption('Station')
 display_width = 500
 display_height = 400
 display_game=pygame.display.set_mode((display_width, display_height),0,32)
-
 surface = pygame.display.get_surface()
-
-w, h = surface.get_size()
-print(w)
 
 display_game.fill(WHITE)
 
@@ -38,10 +34,9 @@ def draw_active_key(key):
     text = Text(display_game, BLACK, 5, 20, str(key))
     text.draw()
 
-def info():
+""" def info():
     text =  Text(display_game, BLACK, display_width - 160, 20, str("Press B key for buy new ticket!"), 15)
-    text.draw()
-
+    text.draw() """
 
 lead_x_change = 0
 lead_y_change = 0
@@ -87,8 +82,8 @@ while True:
                 temp = active_key + " " + person.current_pos()
                 f.write(temp + "\n")
                 print(temp)
-            elif event.key==K_b and cash_register.color == RED:
-                ticket_count += 1
+            elif event.key==K_b and (not cash_register.is_free()):
+                ticket.ticket_inc()
                 active_key = "B"
                 temp = "You have bought new ticket! You have " + str(ticket_count) + " tickets"
                 f.write(temp + "\n")
@@ -100,14 +95,11 @@ while True:
                 lead_y_change = 0
     if (person.get_x() >= cash_register.get_x() and person.get_x() <= cash_register.get_x() + cash_register.width):
         if (person.get_y() >= cash_register.get_y() and person.get_y() <= cash_register.get_y() + cash_register.height):
-            cash_register.changeColor(RED)
+            cash_register.change_color(RED)
         else:
-            cash_register.changeColor(GREEN)
+            cash_register.change_color(GREEN)
     if (person.get_x() < cash_register.get_x() or person.get_x() > cash_register.get_x() + cash_register.width):
-        cash_register.changeColor(GREEN)
-    #if (person.get_x() < 0 or person.get_x() >= display_width or person.get_y() < 0 or person.get_y() >= display_height):
-      #  f.close()
-     #   exit()
+        cash_register.change_color(GREEN)
     #move person
     person.move_x(lead_x_change)
     person.move_y(lead_y_change)
@@ -115,11 +107,8 @@ while True:
     person.changePosition()
 
     display_game.fill(WHITE)
-    if cash_register.color == RED:
-        info()
     person.draw()
     cash_register.draw()
-    ticket.changeName("Tickets " + str(ticket_count))
     ticket.draw()
     draw_active_key(active_key)
     pygame.display.update()

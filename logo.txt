@@ -608,3 +608,215 @@ Down ( X= 320, Y = 200 )
 Left ( X= 320, Y = 80 )
 Left ( X= 210, Y = 80 )
 Up ( X= 200, Y = 80 )
+Station logs! 10/14/19 - 10:31:41
+Up ( X= 250, Y = 200 )
+Up ( X= 250, Y = 100 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 80 )
+Left ( X= 250, Y = 150 )
+Station logs! 10/14/19 - 10:40:13
+Station logs! 10/14/19 - 10:40:37
+Station logs! 10/14/19 - 10:40:50
+Station logs! 10/14/19 - 10:41:58
+Up ( X= 250, Y = 200 )
+Left ( X= 250, Y = 160 )
+Down ( X= 220, Y = 160 )
+Right ( X= 220, Y = 180 )
+Up ( X= 240, Y = 180 )
+Left ( X= 240, Y = 160 )
+Down ( X= 220, Y = 160 )
+Right ( X= 220, Y = 180 )
+Up ( X= 240, Y = 180 )
+Up ( X= 240, Y = 100 )
+Up ( X= 240, Y = 80 )
+Down ( X= 240, Y = 60 )
+Down ( X= 240, Y = 110 )
+Up ( X= 240, Y = 140 )
+Station logs! 10/14/19 - 10:42:37
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 50 )
+Station logs! 10/14/19 - 10:44:21
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 60 )
+Left ( X= 250, Y = 130 )
+Right ( X= 220, Y = 130 )
+Up ( X= 240, Y = 130 )
+Station logs! 10/14/19 - 10:45:41
+Station logs! 10/14/19 - 10:46:24
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 90 )
+Station logs! 10/14/19 - 10:46:46
+Up ( X= 250, Y = 200 )
+Up ( X= 250, Y = 100 )
+Down ( X= 250, Y = 70 )
+Up ( X= 250, Y = 130 )
+Down ( X= 250, Y = 80 )
+Down ( X= 250, Y = 110 )
+Station logs! 10/14/19 - 10:47:50
+Up ( X= 250, Y = 200 )
+Up ( X= 250, Y = 160 )
+Down ( X= 250, Y = 80 )
+Up ( X= 250, Y = 170 )
+Station logs! 10/14/19 - 10:48:37
+Up ( X= 250, Y = 200 )
+Station logs! 10/14/19 - 10:49:14
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 70 )
+Up ( X= 250, Y = 130 )
+Down ( X= 250, Y = 60 )
+Up ( X= 250, Y = 130 )
+Down ( X= 250, Y = 80 )
+Station logs! 10/14/19 - 10:51:54
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 80 )
+Station logs! 10/14/19 - 10:52:27
+Station logs! 10/14/19 - 10:54:04
+Up ( X= 250, Y = 200 )
+Up ( X= 250, Y = 160 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 90 )
+Left ( X= 250, Y = 150 )
+Up ( X= 220, Y = 150 )
+You have bought new ticket! You have 2 tickets
+Down ( X= 210, Y = 90 )
+Left ( X= 210, Y = 180 )
+Up ( X= 170, Y = 180 )
+Right ( X= 170, Y = 80 )
+Down ( X= 230, Y = 80 )
+Left ( X= 230, Y = 130 )
+Up ( X= 200, Y = 130 )
+Down ( X= 200, Y = 50 )
+Station logs! 10/14/19 - 10:55:10
+Up ( X= 250, Y = 200 )
+Up ( X= 250, Y = 90 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 70 )
+Station logs! 10/14/19 - 10:56:14
+Up ( X= 250, Y = 200 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 80 )
+Left ( X= 250, Y = 160 )
+Down ( X= 200, Y = 170 )
+Right ( X= 190, Y = 200 )
+Up ( X= 210, Y = 200 )
+You have bought new ticket! You have 2 tickets
+Down ( X= 210, Y = 70 )
+Left ( X= 210, Y = 170 )
+Down ( X= 320, Y = 170 )
+Left ( X= 310, Y = 70 )
+You have bought new ticket! You have 3 tickets
+Station logs! 10/14/19 - 10:56:49
+Up ( X= 250, Y = 200 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 60 )
+Left ( X= 250, Y = 150 )
+Up ( X= 170, Y = 150 )
+You have bought new ticket! You have 2 tickets
+Station logs! 10/14/19 - 11:00:25
+Up ( X= 250, Y = 200 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 70 )
+Left ( X= 250, Y = 180 )
+Right ( X= 170, Y = 180 )
+Up ( X= 200, Y = 180 )
+You have bought new ticket! You have 2 tickets
+Down ( X= 210, Y = 70 )
+You have bought new ticket! You have 3 tickets
+Station logs! 10/14/19 - 11:01:35
+Up ( X= 250, Y = 200 )
+Up ( X= 250, Y = 170 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 80 )
+Up ( X= 250, Y = 160 )
+You have bought new ticket! You have 2 tickets
+Down ( X= 250, Y = 80 )
+Left ( X= 250, Y = 180 )
+Up ( X= 200, Y = 180 )
+You have bought new ticket! You have 3 tickets
+Down ( X= 200, Y = 80 )
+Up ( X= 200, Y = 170 )
+You have bought new ticket! You have 4 tickets
+Down ( X= 200, Y = 60 )
+Right ( X= 200, Y = 150 )
+Station logs! 10/14/19 - 11:03:30
+Up ( X= 250, Y = 200 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 70 )
+Up ( X= 250, Y = 140 )
+You have bought new ticket! You have 2 tickets
+Down ( X= 250, Y = 70 )
+Station logs! 10/14/19 - 11:04:00
+Up ( X= 250, Y = 200 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 60 )
+Up ( X= 250, Y = 180 )
+You have bought new ticket! You have 2 tickets
+Down ( X= 250, Y = 80 )
+Station logs! 10/14/19 - 11:04:14
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 80 )
+Up ( X= 250, Y = 150 )
+Down ( X= 250, Y = 70 )
+Station logs! 10/14/19 - 11:06:01
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 70 )
+Left ( X= 250, Y = 170 )
+Up ( X= 210, Y = 170 )
+Down ( X= 210, Y = 80 )
+Up ( X= 210, Y = 150 )
+Down ( X= 210, Y = 80 )
+Station logs! 10/14/19 - 11:06:49
+Up ( X= 250, Y = 200 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 70 )
+Up ( X= 250, Y = 170 )
+You have bought new ticket! You have 2 tickets
+Down ( X= 250, Y = 70 )
+Station logs! 10/14/19 - 11:12:21
+Up ( X= 250, Y = 200 )
+Left ( X= 250, Y = 170 )
+Up ( X= 220, Y = 170 )
+Down ( X= 220, Y = 80 )
+Up ( X= 220, Y = 150 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 220, Y = 60 )
+Station logs! 10/14/19 - 11:13:59
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 70 )
+Station logs! 10/14/19 - 11:15:22
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 70 )
+Station logs! 10/14/19 - 11:16:10
+Station logs! 10/14/19 - 11:16:19
+Up ( X= 250, Y = 200 )
+Down ( X= 250, Y = 80 )
+Up ( X= 250, Y = 150 )
+Down ( X= 250, Y = 130 )
+Up ( X= 250, Y = 150 )
+You have bought new ticket! You have 1 tickets
+Down ( X= 250, Y = 80 )
+Up ( X= 250, Y = 150 )
+You have bought new ticket! You have 2 tickets
+Down ( X= 250, Y = 80 )
+Station logs! 10/14/19 - 11:22:04
+Up ( X= 250, Y = 200 )
+Left ( X= 250, Y = 80 )
+Down ( X= 230, Y = 80 )
+Right ( X= 230, Y = 110 )
+Up ( X= 240, Y = 110 )
+Left ( X= 240, Y = 90 )
+You have bought new ticket! You have 0 tickets
+Down ( X= 220, Y = 90 )
+Left ( X= 220, Y = 190 )
+Up ( X= 180, Y = 190 )
+You have bought new ticket! You have 0 tickets
+Down ( X= 180, Y = 100 )
+Right ( X= 180, Y = 180 )
+Left ( X= 230, Y = 190 )
+Up ( X= 200, Y = 190 )
+You have bought new ticket! You have 0 tickets
+Down ( X= 200, Y = 60 )
+Right ( X= 200, Y = 160 )
+Left ( X= 220, Y = 160 )
+Up ( X= 210, Y = 160 )
+Left ( X= 200, Y = 130 )
