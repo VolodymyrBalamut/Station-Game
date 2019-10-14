@@ -33,9 +33,9 @@ class Rectangle(Figure):
         pygame.draw.rect(self.display,self.color,self.rect, 3)
 
 class Text(Figure):
-    def __init__(self, display, color, x, y, msg):
+    def __init__(self, display, color, x, y, msg, font_size = 25):
         super().__init__(display, color, x, y)
-        self.font = pygame.font.SysFont(None, 25)
+        self.font = pygame.font.SysFont(None, font_size)
         self.msg = msg
     def draw(self):
         screen_text = self.font.render(self.msg, True, self.color)
